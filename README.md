@@ -1,6 +1,9 @@
 # Rect with Redux Weather App
 
 ## Project Purpose
+- Solidify knowledge of React
+- Get much more framilier with Redux
+- Make Async calls with Redux
 
 ## What I Learned
 
