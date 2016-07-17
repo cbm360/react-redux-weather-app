@@ -22,5 +22,6 @@ data in the same array.
 -ES6 setting a function variable in the arguments function myFunction( { myArgument } ) {}.  This will
 create a const inside the function.
 -React when rendering a list a unique key value must be provided in the top level element.
+-Used React Sparklines to quickly create charts
 ## Resources
 Udemy- [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
