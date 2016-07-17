@@ -19,5 +19,7 @@ result of the promise and sends that to the reducer.
 - ES6 create new array [ action.payload.data, ...state ];, this will take the original state = []
 and create an new array with the new data as the first record in the array with the existing (...state)
 data in the same array.
+-ES6 setting a function variable in the arguments function myFunction( { myArgument } ) {}.  This will
+create a const inside the function.
 ## Resources
 Udemy- [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
